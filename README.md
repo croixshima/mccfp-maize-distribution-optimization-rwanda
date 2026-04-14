@@ -49,16 +49,20 @@ One of the main challenges was the lack of a complete dataset.
   
   Full final year project report containing the problem description, model formulation, methodology, and results.
 
-- [mccfp_network_visualization.pdf](mccfp_network_visualization.pdf)  
+- [mccfp_network_visualization.pdf](mccfp_network_visualization.pdf)
+   
   Visualization of the initial network showing all possible flows between supply points, warehouses, and demand locations.
 
-- [mccfp_optimal_solution_flows.pdf](mccfp_optimal_solution_flows.pdf)  
+- [mccfp_optimal_solution_flows.pdf](mccfp_optimal_solution_flows.pdf)
+   
   Visualization of the optimized network showing the selected routes and flow quantities that minimize total transportation cost.
 
-- [Maizeflow_dataset.xlsx](Maizeflow_dataset.xlsx)  
+- [Maizeflow_dataset.xlsx](Maizeflow_dataset.xlsx)
+  
   Dataset used in the project, including supply quantities, demand values, transportation costs, and warehouse capacities.
 
-- [fixed_mccfp_model.py](fixed_mccfp_model.py)  
+- [fixed_mccfp_model.py](fixed_mccfp_model.py)
+  
   Python implementation of the MCCFP model used to compute the optimal distribution of maize. 
 
 ## Citation
